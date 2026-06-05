@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Welcome to Laravel + Vue + Inertia! 🚀</h1>
+    <b>Welcome to Laravel + Vue + Inertia! 🚀</b>
   </div>
 </template>
